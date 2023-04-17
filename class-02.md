@@ -24,3 +24,5 @@ When React needs to update the app with some new data. Usually, this happens as 
 
 **What are some examples of things that we could store in state?**
 The state is encapsulated data where you store assets that are persistent between component renderings. The state is just a fancy term for a JavaScript data structure. If a user changes state by interacting with your application, the UI may look completely different afterwards, because it's represented by this new state rather than the old state.
+
+## Things I want to know more about
