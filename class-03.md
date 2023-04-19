@@ -53,7 +53,12 @@ console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂�
 **In the video, what is the first step that the developer does to pass functions between components?**
 
 **In your own words, what does the increment function do?**
+The increment function takes a variable and changes its value, and also returns this value.
 
 **How can you pass a method from a parent component into a child component?**
+You can use props to transfer the data. The Child will access the data in the props. An example like this where you want to transfer a message from Parent to Child. The Parent pass the data in message, and the Child got the data in props.
 
 **How does the child component invoke a method that was passed to it from a parent component?**
+You pass the function reference to the child component as a prop. Then you can call that parent's function from the child component like props, parentMethodName().
+
+## Things I want to know more about
