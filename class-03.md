@@ -22,14 +22,38 @@ It is used to make deep copies of JS objects. When we have nested arrays or nest
 Copying an array, combining arrays, adding an item to a list, and using an array as arguments.
 
 **Give an example of using the spread operator to combine two arrays.**
+Known as array concatenation -
+Ex.
+const myArray = [`🤪`,`🐻`,`🎌`]
+const yourArray = [`🙂`,`🤗`,`🤩`]
+const ourArray = [...myArray,...yourArray]
+console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩
 
 **Give an example of using the spread operator to add a new item to an array.**
+Ex.
+const fruits = ['🍏','🍊','🍌','🍉','🍍']
+const moreFruits = [...fruits];
+console.log(moreFruits) // Array(5) [ "🍏", "🍊", "🍌", "🍉", "🍍" ]
+fruits[0] = '🍑'
+console.log(...[...fruits,'...',...moreFruits]) //  🍑 🍊 🍌 🍉 🍍 ... 🍏 🍊 🍌 🍉 🍍
 
 **Give an example of using the spread operator to combine two objects into one.**
+Ex.
+[...["😋😛😜🤪😝"]] // Array [ "😋😛😜🤪😝" ]
+[..."🙂🙃😉😊😇🥰😍🤩!"] // Array(9) [ "🙂", "🙃", "😉", "😊", "😇", "🥰", "😍", "🤩", "!" ]
+
+const hello = {hello: "😋😛😜🤪😝"}
+const world = {world: "🙂🙃😉😊😇🥰😍🤩!"}
+
+const helloWorld = {...hello,...world}
+console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂🙃😉😊😇🥰😍🤩!" }
 
 ## How to Pass Functions Between Components
 
 **In the video, what is the first step that the developer does to pass functions between components?**
+
 **In your own words, what does the increment function do?**
+
 **How can you pass a method from a parent component into a child component?**
+
 **How does the child component invoke a method that was passed to it from a parent component?**
