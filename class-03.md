@@ -6,6 +6,7 @@
 A new array with transformed elements and the same amount of data
 
 **If I want to loop through an array and display each value in JSX, how do I do that in React?**
+Using map
 
 **Each list item needs a unique ____.**
 Key
@@ -51,6 +52,7 @@ console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂�
 ## How to Pass Functions Between Components
 
 **In the video, what is the first step that the developer does to pass functions between components?**
+He created a function where his state is that he wanted to change.
 
 **In your own words, what does the increment function do?**
 The increment function takes a variable and changes its value, and also returns this value.
@@ -62,3 +64,5 @@ You can use props to transfer the data. The Child will access the data in the pr
 You pass the function reference to the child component as a prop. Then you can call that parent's function from the child component like props, parentMethodName().
 
 ## Things I want to know more about
+
+Using map
