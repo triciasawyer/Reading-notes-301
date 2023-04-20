@@ -19,3 +19,6 @@ The ternary operator valuates conditions to present a true or false value, (if/e
 **if(x===y {**
     **console.log(true);**
 **} else { console.log(false);}**
+
+if x === y { console.log(?);
+}  else console.log (!);
