@@ -6,6 +6,7 @@
 A controlled component is a component that is controlled by React state, while an uncontrolled component is a component that maintains its own internal state. A controlled component receives its current value and an update callback via props, and the parent component manages the state of the component.
 
 **Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why?**
+We should update the state with their responses as soon as they enter them because then we will have state set, and it can just update whenever a response is put in.
 
 **How do we target what the user is entering if we have an event handler on an input field?**
 When you need to handle multiple controlled input elements, you can add a name attribute to each element and let the handler function choose what to do based on the value of event.target.name.
