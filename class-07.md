@@ -29,9 +29,14 @@ npm install jshint, then you can run npm -v to check and see if it installed and
 ## 6 Reasons for Pair Programming
 
 **What are the 6 reasons for pair programming?**
+Greater efficiency, engaged collaboration, learning from fellow students, social skills, job interview readiness, and work environment readiness.
 
 **In your experience, which of these reasons have you found most beneficial?**
+Engaged collaboration.
 
 **How does pair programming work?**
+Pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
 
 ## Things I want to know more about
+
+Node and how it works.
