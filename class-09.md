@@ -27,7 +27,11 @@ A file containing related code.
 The require method is used to load and cache JavaScript modules.
 
 **How do we bring another module into the file the we are working in?**
+You need to import the module, using the require key.
 
 **What do we have to do to make a module available?**
+You then need to export the module on that file.
 
 ## Things I want to know more about
+
+Modules and how the passing of props and things work.
