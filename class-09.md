@@ -34,4 +34,4 @@ You then need to export the module on that file.
 
 ## Things I want to know more about
 
-Modules and how the passing of props and things work.
+-Modules and how the passing of props and things work.

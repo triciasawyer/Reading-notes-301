@@ -65,4 +65,4 @@ You pass the function reference to the child component as a prop. Then you can c
 
 ## Things I want to know more about
 
-Using map
+-Using map

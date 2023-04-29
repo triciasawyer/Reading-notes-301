@@ -39,3 +39,7 @@ Yes
 **The Movie DB API Docs**
 -Did you get your API key?
 Yes
+
+## Things I want to know more about
+
+-Just how API's work in general and how to use them

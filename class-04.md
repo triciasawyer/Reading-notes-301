@@ -23,3 +23,5 @@ The ternary operator valuates conditions to present a true or false value, (if/e
 
 if x === y { console.log(?);
 }  else console.log (!);
+
+## Things I want to know more about

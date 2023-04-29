@@ -34,3 +34,5 @@ Line 2 is creating a return that takes in m, and allows m to be greater than n.
 
 **Explain how either map or reduce operates, with regards to higher-order functions.**
 The map method transforms an array by applying a function to all of its elements and building a new array from the returned values. The new array will have the same length as the input array, but its content will have been mapped to a new form by the function.
+
+## Things I want to know more about

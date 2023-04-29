@@ -45,3 +45,7 @@ It is a point of code where the debugger will automatically pause the JavaScript
 
 **What does the word ‘debugger’ do in your code?**
 It stops the execution of JavaScript, and calls (if available) the debugging function. This has the same function as setting a breakpoint in the debugger.
+
+## Things I want to know more about
+
+-How to fix errors and just becoming familiar with the errors and what they mean.

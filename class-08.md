@@ -45,3 +45,7 @@ A chatty web API means that theres a lot of requests (or a bigger load) which ov
 
 **What status code does a successful DELETE request return?**
 204(No content).
+
+## Things I want to know more about
+
+-Status codes and what they mean right away, but as I get more familiar with them I know that will come.

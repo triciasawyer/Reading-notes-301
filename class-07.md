@@ -39,4 +39,4 @@ Pair programming commonly involves two roles: the Driver and the Navigator. The 
 
 ## Things I want to know more about
 
-Node and how it works.
+-Node and how it works.
