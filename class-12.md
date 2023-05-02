@@ -36,11 +36,13 @@ Middleware is a function that will have all the access for requesting an object,
 It is a built-in middleware function in Express that parses incoming requests with JSON payloads and is based on body-parser. Returns middleware that only parses JSON and only looks at requests where the Content-Type header matches the type option.
 
 **What does the /:id mean in a route?**
+From our list of routes, /:id is the path that gets you to this function. The “:id” specifies that whatever you put into that position will be passed as the id in the params map.
 
 **What is the difference between PUT and PATCH?**
 PUT is a technique of altering resources when the client transmits data that revamps the whole resource. PATCH is a technique for transforming the resources when the client transmits partial data that will be updated without changing the whole data.
 
 **How do you make a default value in a schema?**
+{ type: String, default: '' }
 
 **What does a 500 error status code mean?**
 500 Internal Server Error server error response code indicates that the server encountered an unexpected condition that prevented it from fulfilling the request.
@@ -49,3 +51,5 @@ PUT is a technique of altering resources when the client transmits data that rev
 200: “Everything is OK.” This is the code that is delivered when a web page or resource acts exactly the way it's expected to. 201: “Created.” The server has fulfilled the browser's request, and as a result, has created a new resource.
 
 ## Things I want to know more about
+
+I want to know more about the errors and be able to know off the top of my head. I also want to be able to understand the PUT and PATCH.
