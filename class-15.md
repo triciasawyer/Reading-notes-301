@@ -3,9 +3,14 @@
 ## What is OAuth
 
 **What is OAuth?**
+OAuth is an open-standard authorization protocol or framework that describes how unrelated servers and services can safely allow authenticated access to their assets without actually sharing the initial, related, single logon credential.
+
 **Give an example of what using OAuth would look like.**
+
 **How does OAuth work? What are the steps that it takes to authenticate the user?**
+
 **What is OpenID?**
+OpenID is for humans logging into machines, OAuth is for machines logging into machines on behalf of humans.
 
 ## Authorization and Authentication flows
 
