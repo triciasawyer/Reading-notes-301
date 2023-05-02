@@ -19,3 +19,5 @@ Hey, my name is Tricia and these are my reading notes for class 301!
 - [301 Class 11](class-11.md)
 - [301 Class 12](class-12.md)
 - [301 Class 13](class-13.md)
+- [301 Class 14](class-14.md)
+- [301 Class 15](class-15.md)
