@@ -35,3 +35,5 @@ It enables a client application to obtain authorized access to protected resourc
 **What is Device Authorization Flow?**
 
 **What is Resource Owner Password Flow?**
+
+## Things I want to know more about
