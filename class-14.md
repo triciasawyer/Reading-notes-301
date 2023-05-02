@@ -23,3 +23,6 @@ When the employees of an organization better represent their users and desired u
 An example is when YouTube’s almost entirely right-handed developer team built the iOS app without considering how left-handed people would use it, for example, 5% to 10% of videos were uploaded upside down as a result. This factor may be especially relevant for leaders of consumer tech companies.
 
 ## Things I want to know more about
+
+What characteritsics creat a diverse team?
+How do you get a diverse team that also collaborates good together.
