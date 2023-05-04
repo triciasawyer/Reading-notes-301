@@ -1,4 +1,4 @@
-# Reading-notes-301
+# Reading notes 301
 
 Hey, my name is Tricia and these are my reading notes for class 301!
 
